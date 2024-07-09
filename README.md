@@ -56,10 +56,9 @@ EDA involved exploring the datasets to answer key questions such as:
 - Limited data for 2005: Incomplete data for 2005 could be skewing sales trends by year.
 
 ### Conclusion
-Conclusion
 This initial data exploration provided a promising glimpse into the retail sales landscape. Key findings highlight a strong overall performance with $10 million in total sales and a diverse customer base spanning 19 countries. Top-performing products and strong international demand in specific regions (US, Spain, France) offer valuable insights for future strategies.
 
-Limitations
+### Limitations
 However, this "first glance" also reveals limitations that warrant further investigation:
 
 - Limited data scope: The analysis only covered data from 2003 to 2005, with incomplete data for 2005 potentially skewing sales trends.
